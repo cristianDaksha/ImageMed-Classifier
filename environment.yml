@@ -1,0 +1,6 @@
+name: templates
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter

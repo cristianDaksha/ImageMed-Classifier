@@ -1,0 +1,8 @@
+{
+    "project_name": "Brahma Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "This is a project for Brahma Gentech",
+    "project_author": "Daksha Group",
+    "python_version": "3.10.13",
+    "install_enviroment": "y"
+}
