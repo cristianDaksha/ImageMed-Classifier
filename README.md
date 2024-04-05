@@ -14,9 +14,8 @@ Below is the project directory structure:
 ```
 proyecto_yolo/
 │
-├── checkpoints/
-│   └── class_mamma/       # Checkpoints are saved
-│       └── class_ckpt /
+├── checkpoints/    # Checkpoints are saved
+│   
 |
 ├── config/
 |
