@@ -42,7 +42,7 @@ proyecto_yolo/
 
 ## Install
 ```
-coockiecutter gh:cristianDaksha/ImageMed-Classifier-YOLO-NAS
+cookiecutter gh:cristianDaksha/ImageMed-Classifier-YOLO-NAS
 ```
 
 
