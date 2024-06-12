@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: ImageMed Classifier
+message: >-
+  If you use this template, please cite it using the
+  metadata from this file
+type: Software
+authors:
+- family-names: Cristian
+  given-names: Rubio
+  email: cristian.rubio@comunidad.unam.mx
+  Linkedin: 'https://www.linkedin.com/in/cristian-rubio-ai-dev/'
+identifiers:
+repository-code: 'https://github.com/cristianDaksha/ImageMed-Classifier.git'
+abstract: >-
+  ImageMed Classifier, easy to customize
+license: MIT
